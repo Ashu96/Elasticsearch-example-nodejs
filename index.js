@@ -11,7 +11,7 @@ const client = new Client({
 
 /**
  * For this blog we're doing a very simple setup. No API. No Server.
- * The point is to demonstrate the "Elasticsearch" feature and not to build a full-fledge API server of any
+ * The point is to demonstrate the "Elasticsearch" feature and not to build a full-fledged API server of any sort.
  * This function performs all the example operation mentioned in the blog post.
  */
 const run = async () => {
